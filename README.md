@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Pham Quoc Trong
 
-<!--
-**pqt-dev/pqt-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Mobile Developer | Flutter • Android  
+📍 Danang, Vietnam  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Flutter / Dart
+- Android (Kotlin, Jetpack)
+- Firebase, REST API, GrapQL, CI/CD, Appflyer...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 🐑 Sheep Assistant App
+- 📱 Food Delivery App (Flutter)
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=pqt-dev)
